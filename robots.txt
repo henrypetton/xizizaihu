@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uvikohvece.nathan.games/sitemap.xml
